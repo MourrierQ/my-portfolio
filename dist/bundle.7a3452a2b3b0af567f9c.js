@@ -70,7 +70,7 @@
 /* 0 */
 /***/ function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed: ModuleBuildError: Module build failed: \n        border-bottom: 2px solid ##c31700  \n                                ^\n      Invalid CSS after \"...ttom: 2px solid\": expected expression (e.g. 1px, bold), was \"##c31700; } } } }\"\n      in /home/quentin/Documents/Projects/my-portfolio/src/assets/styles/modules/_large-hero.sass (line 51, column 34)\n    at /home/quentin/Documents/Projects/my-portfolio/node_modules/webpack/lib/NormalModule.js:143:35\n    at /home/quentin/Documents/Projects/my-portfolio/node_modules/loader-runner/lib/LoaderRunner.js:364:11\n    at /home/quentin/Documents/Projects/my-portfolio/node_modules/loader-runner/lib/LoaderRunner.js:230:18\n    at context.callback (/home/quentin/Documents/Projects/my-portfolio/node_modules/loader-runner/lib/LoaderRunner.js:111:13)\n    at Object.asyncSassJobQueue.push [as callback] (/home/quentin/Documents/Projects/my-portfolio/node_modules/sass-loader/lib/loader.js:55:13)\n    at Object.<anonymous> (/home/quentin/Documents/Projects/my-portfolio/node_modules/async/dist/async.js:2243:31)\n    at Object.callback (/home/quentin/Documents/Projects/my-portfolio/node_modules/async/dist/async.js:906:16)\n    at options.error (/home/quentin/Documents/Projects/my-portfolio/node_modules/node-sass/lib/index.js:294:32)");
 
 /***/ },
 /* 1 */
@@ -81,7 +81,7 @@
 
 __webpack_require__(0);
 
-console.log('helSPP');
+console.log('helSPPMM');
 
 /***/ }
 /******/ ]);

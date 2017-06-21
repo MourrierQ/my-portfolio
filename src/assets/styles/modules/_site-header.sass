@@ -1,2 +1,17 @@
 .site-header
-  color: pink
+  padding: 10px 0
+  position: absolute
+  width: 100%
+  z-index: 2
+
+
+  @mixin atMedium
+    position: fixed
+    background-color: rgba($mainBlue, .3)
+
+
+
+  &_btn-container
+
+    @mixin atMedium
+      float: right       
